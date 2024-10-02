@@ -24,7 +24,7 @@ Additionally, the application saves user preferences for grouping and sorting, e
 
 ## Live Demo
 
-Explore the live version of the Kanban Board Application [here]().
+Explore the live version of the Kanban Board Application [here](https://kanban-board-one-virid.vercel.app/).
 
 ## Getting Started
 
